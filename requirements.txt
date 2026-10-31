@@ -1,1 +1,7 @@
+ipykernel
+numpy
+lightgbm
+pyarrow
+scikit-learn
+pandas
 polars==1.44.2
