@@ -7,8 +7,7 @@
 
 Структура должна быть такой: `data/raw/ваши_файлы.csv`
 
-
-  ![alt text](image.png)
+<img width="1708" height="902" alt="image" src="https://github.com/user-attachments/assets/c118f029-ff6f-4d9b-8b2f-85138b069f3c" />
 
 
 # Описание данных
