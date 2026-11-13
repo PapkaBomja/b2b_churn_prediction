@@ -5,3 +5,5 @@ pyarrow
 scikit-learn
 pandas
 polars==1.44.2
+sqlalchemy
+psycopg2-binary
